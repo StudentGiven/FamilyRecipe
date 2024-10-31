@@ -9,6 +9,7 @@ public class ChowFamilyRecipeApplication {
     public static void main(String[] args) {
         SpringApplication.run(ChowFamilyRecipeApplication.class, args);
 
+
     }
 
 }
